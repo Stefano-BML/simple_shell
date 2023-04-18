@@ -274,7 +274,7 @@ $ ./hsh
 $ exit
 ```
 
-###env
+### env
 
 + Usage: env
 + Prints the current environment.
