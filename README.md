@@ -228,7 +228,7 @@ The operators `&&` and `||` have equal precedence, followed by `;`.
 Example:
 
 ```
-$ ./shellby
+$ ./hsh
 $ pwd
 /home/vagrant/holberton/simple_shell
 $ cd ../
@@ -272,7 +272,7 @@ example:
 ```
 $ ./hsh
 $ exit
-
+```
 
 ###env
 
